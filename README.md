@@ -33,11 +33,6 @@ A feature-rich, multi-page Finance Dashboard website built with **HTML**, **CSS*
 
 ---
 
-## 📂 Project Structure
-
-
----
-
 ## 🛠️ Technologies Used
 
 ### Frontend
